@@ -1,2 +1,9 @@
 # seismicsurveyrelease
-Seismi Survey software release
+Seismi Survey 소프트웨어 릴리즈 페이지입니다. 
+오른쪽에 release에 가셔서 최신 소프트웨어를 다운받으시면 됩니다. 
+
+소프트웨어 버젼명은 다음과 같습니다. v.1.0.YYMMDD 입니다. 
+
+혹시 다운받으신 소프트웨어에 문제가 있는 경우, 위쪽에 issue에 가셔서 버젼명과 해당 문제를 적어 주시면 됩니다. 
+
+감사합니다. 
